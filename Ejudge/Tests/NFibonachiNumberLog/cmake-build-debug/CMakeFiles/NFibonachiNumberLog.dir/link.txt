@@ -1,0 +1,3 @@
+C:\Users\mihail\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.7319.72\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\NFibonachiNumberLog.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\NFibonachiNumberLog.dir/objects.a @CMakeFiles\NFibonachiNumberLog.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\NFibonachiNumberLog.dir/objects.a -Wl,--no-whole-archive  -o NFibonachiNumberLog.exe -Wl,--out-implib,libNFibonachiNumberLog.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\NFibonachiNumberLog.dir\linklibs.rsp

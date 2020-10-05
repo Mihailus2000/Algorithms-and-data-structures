@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/mihail/Documents/Course3/Algoruithms/NFibonachiNumberLog/main.cpp
+iostream
+-
+vector
+-
+chrono
+-
+
